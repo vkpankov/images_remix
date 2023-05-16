@@ -1,0 +1,8 @@
+torch
+diffusers
+Pillow
+transformers
+accelerate
+scipy
+safetensors
+xformers
